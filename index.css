@@ -1,0 +1,607 @@
+.navbar-brand img{
+    width: 50%;
+    margin-left: 0px;
+}
+ #home {
+    margin-left: 270px !important;
+    font-size: 13px;
+}
+#gov{
+    font-size: 13px;
+    margin-left: 5px;
+    
+}
+a{
+    text-decoration: none;
+}
+body{
+    overflow-x: scroll;
+}
+#image{
+    width: 30%;
+}
+#scape{
+
+width: 95%;}
+hr{
+    width: 120px;
+    
+}
+#misk{
+    width: 30%;
+}
+#fourth{
+    width: 100%;
+}
+#com{
+    font-size: 12px;
+}
+#capt{
+    width: 100%;
+}
+#job{
+    text-decoration: none;
+}
+.more{
+    font-size: 11px;
+}
+#accent{
+    width: 90%;
+}
+.cur{
+    font-size: 12px;
+}
+.trust{
+    font-size: 55px;
+    font-weight: 600;
+}
+
+#bg2{
+   background-image: url(images/background2.webp);
+   background-size: cover;
+   height: 500px !important;
+}
+.our{
+    border-bottom: 1px;
+    border: 1px solid blue;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+}
+.busin{
+    font-size: 8px;
+    
+}
+.line{
+    /* line-height: 10px; */
+    font-size: 9px;
+    color: black;
+}
+
+#facebook{
+    width: 65%;
+}
+.sup{
+    color: black;
+}
+.trusted{
+    font-size: 9px;
+    line-height: 14px;
+}
+.site{
+    font-size: 12px;
+}
+#logo{
+    width: 15%;
+}
+.build{
+
+    line-height: 10px;
+}
+.border1{
+   border-top:3px;
+   border: 2px solid whitesmoke;
+   height: 40px;
+   border-style: ridge;
+   
+}
+.signin{
+    background-color: rgb(32, 21, 255);
+}
+.forgot{
+    color: rgb(32, 21, 255);
+    padding: 15px !important;
+}
+.forgot2{
+    padding: 100px !important;
+}
+.google1{
+    width: 12%;
+    height: 36px;
+    margin-left: 30px !important;   
+}
+.google2{
+    width: 12%;
+    height: 36px;
+    margin-left: 30px !important;   
+}
+
+.underline{
+    border-top: 2px;
+     border: 2px solid whitesmoke; 
+     border-left: 2px;
+     border-bottom: 2px;
+     border-right: 2px; 
+    border-style: ridge;
+    width: 70% !important;
+}
+  div> hr{
+   
+    width: 100% !important;
+}
+.or{
+    margin-left: -15px !important;
+}
+.form-control{
+    width: 90% !important;
+}
+.font{
+    font-size: 11px;
+  
+    color: black;
+}
+#font{
+    text-decoration: underline;
+    color: black;
+}
+.background{
+
+    background-color: rgb(246, 246, 246);   
+}
+#prise{
+    line-height: 30px !important;
+}
+
+.u{
+    width: 15%;
+}
+.u1{
+    width: 20%;
+    height: 35px;
+}
+.u3{
+    width: 25%;
+}
+.border4{
+   border-radius: 15px;
+    
+    padding: 8px;
+    background-color: rgb(1, 122, 155);
+}
+.border5{
+    background-color: rgb(233, 234, 235);
+    border-radius: 15px;
+   
+    padding: 8px;
+}
+.bord{
+    border-radius: 10px;
+    background-color:#0d6efd;
+    padding: 10px;
+    border: 4px solid rgb(56, 155, 216);
+}
+.forg{
+    background-color: rgb(32, 21, 255);
+    padding: 10px !important;
+}
+.cent{
+    padding: 25px !important;
+    
+}
+.text{
+    font-size: 11px;
+    padding: 50px;
+}
+.bor{
+    height: 300px;
+    width: 85%;
+   
+}
+.nav1{
+    background-color: rgb(15, 43, 61);
+    height: 70px;
+}
+.current{
+    font-size: 14px;
+    padding: 20px;
+}
+.contain1{
+    background-color: rgb(246, 246, 246);
+}
+.fluid{
+    background-color: rgb(20, 37, 128);
+}
+.exp{
+    background-color: rgb(20, 37, 128);
+    border: 2px solid white;
+} 
+.enter{
+    font-size: 10px;
+} 
+
+.indiv{
+   color: rgb(51, 209, 180);
+   font-size: 13px;
+}
+.download1{
+    background-color: rgb(32, 21, 255);
+    border-radius: 5px;
+}
+.backgroundc{
+    background-color: rgb(246, 246, 246); 
+}
+.backg{
+    background-color: rgb(246, 246, 246);   
+}
+.get{
+    background-color: rgb(189, 234, 9);     
+}
+.access{
+    font-size: 14px !important;
+    color: black !important;
+}
+.preview{
+    width: 40%;
+    height: 20px;
+}
+#span hr{
+    width: 40%;
+}
+@media (max-width:500px) {
+    .get{
+        display: none;
+    }
+    #bg2{
+   
+   height: 300px !important;
+}
+#capt{
+    width: 90%;
+}
+#capt{
+    width: 60%;
+    margin-left: 80px;
+}
+.contain1{
+    margin-top: -10px !important;
+}
+#facebook{
+    width: 25%;
+}
+
+     #home {
+    margin-left: 10px !important;
+    font-size: 13px;
+}
+#fourth{
+    width: 60%;
+    margin-left: 90px;
+}
+.cont{
+   
+    margin-top: -10px !important;
+}
+#accent{
+    width: 70% !important;
+}
+       #span{
+        display: none;
+       }
+       .trust{
+        font-size: 18px !important; 
+       }
+       .our{
+        display: none;
+       }
+       #scape{
+        margin-top: 30px;
+        width: 60%;
+       margin-left: 40px !important;
+       }
+       .accelerate{
+        font-size: 12px !important;
+        font-weight: 400;
+       }
+       .enter{
+        font-size: 15px !important;
+       }
+       .reported{
+        font-size: 18px !important;
+       }
+       .talent{
+        font-size: 25px !important;
+       }
+       #com{
+        font-size: 17px !important;
+        margin-top: 30px !important;
+       }
+       .more{
+        font-size: 17px !important;
+       }
+        .access{
+        font-size: 20px !important;
+       }
+       .comtr{
+        font-size: 17px !important;
+        line-height: 30px !important;
+      }
+      .moree{
+        font-size: 17px !important;
+      }
+      .cur{
+        font-size: 20px !important;
+      }
+      .get{
+        margin-left: 0px !important;
+      }
+      
+   
+   }
+   @media (min-width:391px) and (max-width:1000px){
+    .acc{
+        font-size: 20px !important;
+    }
+    .today{
+        font-size: 18px !important;
+        line-height: 22px !important;
+    }
+    .today1{
+        font-size: 18px !important;
+        line-height: 22px !important;
+    }
+    .goog{
+        font-size: 15px !important;
+    }
+    .google1, .google2{
+        width: 5% !important;
+        height: 30px !important;
+        margin-top: -10px !important;
+    }
+    .or{
+        display: none;
+    }
+.font{
+    font-size: 16px !important;
+}
+.signin{
+  margin-left: 80px !important;  
+}
+}
+   @media (min-width:301px) and (max-width:390px){
+    .acc{
+        font-size: 17px;
+    }
+    #logo{
+        width: 30% !important;
+    }
+    .signin{
+       
+        margin-left: 30px !important;
+    }
+    .today{
+        font-size: 6px !important;
+        line-height: 25px !important;
+    }
+    .today1{
+        font-size: 6px !important;
+        line-height: 25px !important;
+    }
+    .goog{
+        font-size: 16px !important;
+    }
+    .or{
+        display: none;
+    }
+    .font{
+        font-size: 18px !important;
+    }
+    .forgot2{
+        font-size: 17px !important;
+        padding: 10px !important;
+    }
+    .forgot{
+        font-size: 17px !important;
+    }
+}
+
+   @media (max-width:300px) and (min-width:100px){
+.acc{
+    font-size: 17px;
+}
+.signin{
+    background-color:green;
+    margin-left: 30px !important;
+}
+.forgot2{
+    padding: 30px !important;
+}
+.font{
+    font-size: 16px !important;
+}
+.today{
+    font-size: 17px;
+    line-height: 21px !important;
+}
+.today1{
+    font-size: 17px;
+    line-height: 25px !important;
+}
+.goog{
+    font-size: 15px !important;
+}
+    .get{
+    display: none;
+}
+.or{
+    display: none;
+}
+#bg2{
+  
+   height: 300px !important;
+}
+ #home {
+    margin-left: 10px !important;
+    font-size: 13px;
+}
+.comtr{
+    font-size: 11px !important;
+    
+
+}
+.cur{
+    font-size: 11px !important;
+}
+.market{
+    font-size: 12px !important;
+}
+
+.accelerate{
+    font-size: 12px !important;
+}
+   }
+   @media (max-width:1000px) and (min-width:501px){
+    #scape{
+        margin-top: 80px;
+        width: 80%;
+       margin-left: 90px;
+       }
+       .accelerate{
+        font-size: 27px !important;
+
+       }
+       .get{
+        display: none;
+       }
+       #bg2{
+  
+   height: 300px !important;
+}
+        #home {
+    margin-left: 10px !important;
+    font-size: 13px;
+}
+       .proven{
+        margin-left: 180px !important;
+       }
+       .reported{
+        font-size: 40px !important;
+       }
+       .enter{
+        font-size: 25px !important;
+       }
+       .talent , .digital{
+        font-size: 35px !important;
+       }
+       #com {
+        font-size: 27px !important;
+        margin-top: 30px !important;
+        
+       }
+      .comtr{
+        font-size: 30px !important;
+        line-height: 23px;
+      }
+       .more{
+        font-size: 25px !important;
+       }
+       .access{
+        font-size: 24px !important;
+       }
+       .accord{
+        font-size: 20px !important;
+       }
+       .moree{
+        font-size: 19px !important;
+      }
+      .cur{
+        font-size: 24px !important;
+      }
+      .get{
+        margin-left: 120px !important;
+      }
+  
+   }
+   @media (max-width:590px) and (min-width:395px){
+    .program{
+        display: none;
+     }
+     .program1{
+         display: none;
+     }
+   }
+   @media (max-width:1025px) and (min-width:1000px){
+    .program{
+        display: none;
+     }
+     .program1{
+         display: none;
+     }
+   }
+   @media (max-width:399px) and (min-width:249px){
+    .yor{
+        font-size: 14px;
+    }
+    .tomorrow, .proof{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    #font1{
+        font-size:11px !important;
+    }
+    .program{
+       display: none;
+    }
+    .program1{
+        display: none;
+    }
+    .border4{
+        width: 8% !important;
+    }
+    .border5{
+        width: 8% !important;
+        margin-top: -0px !important;
+    }
+    .bord{
+       display: none;
+    }
+    .text{
+        font-size: 8px !important;
+
+    }
+}
+    @media (max-width:345px) and (min-width:240px){
+        .border5{
+           display: none;
+        }
+        .program{
+            display: none;
+         }
+         .program1{
+             display: none;
+         }
+
+}
+ .google4{
+    width: 10%;
+}
+.google3{
+    width: 8%;
+}
+.nav-link{
+    font-size: 12px !important;
+}
+@media (max-width:600px) and (min-width:450px){
+    .google3, .google4{
+        width: 6%;
+    }
+}
